@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Capriola|Fredoka+One|Orbitron|Righteous|Baloo+Chettan|Philosopher');
+
+
+
+.scroll {
+    
+    height: 100%;
+    
+    background-color: lightblue;
+}
+
+
+#about_div{
+
+	height: 100%;
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+#about_div h1{
+
+	font-size: 5vw;
+	margin-top: 10%;
+	vertical-align:middle;
+	font-family: 'Righteous', cursive;
+}
+
+
+#about_div p{
+
+	/*margin:auto;*/
+	/*font-size: 5vw;*/
+	color:#3498DB;
+	margin-top: 2%;
+	vertical-align:middle;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.panel{
+	box-shadow: 2px 2px 2px grey;
+}
+
+.panel-heading h3{
+	color:#3498DB;
+	/*margin-bottom: 5%;*/
+}
+.panel-body{
+	font-family: 'Philosopher', sans-serif;
+}
+.panel-body p{
+
+	/*font-family: 'Orbitron', sans-serif;*/
+	color:#E67E22;
+}
+
+
+#projects_div h1{
+	/*background-color: red; */
+
+	font-size: 3vw;
+	text-align: center;
+	font-family: 'Baloo Chettan', cursive;
+	margin-bottom: 2%;
+}
+
+#education_div{
+	text-align: center;
+}
+
+#education_div h1{
+
+	font-size: 4vw;
+	margin-top: 5%;
+	font-family: 'Baloo Chettan', cursive;
+}
+
+#skills_div{
+
+}
+
+#experience_div{
+	/*text-align: center;*/
+
+}
+
+#experience_div h1{
+
+	/*padding-left: 50%;*/
+	text-align: center;
+	font-size: 4vw;
+	margin-top: 5%;
+	font-family: 'Baloo Chettan', cursive;
+}
+
+#blogs_div{
+	text-align: center;
+}
+
+#blogs_div h1{
+
+	font-size: 4vw;
+	margin-top: 5%;
+	font-family: 'Baloo Chettan', cursive;
+}
+
+/*Chips*/
